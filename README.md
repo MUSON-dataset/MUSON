@@ -1,16 +1,19 @@
-## Hi there 👋
+# MUSON: A Reasoning-oriented Multimodal Dataset for Socially Compliant Navigation
 
-<!--
-**MUSON-dataset/MUSON-Dataset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+MUSON is a reasoning-oriented multimodal dataset designed for short-horizon socially compliant navigation in urban environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The dataset provides RGB images and structured reasoning annotations for socially compliant navigation decisions.
+
+## Dataset Structure
+
+After downloading and extracting the dataset package from the **Releases** page, the dataset is organized as follows:
+
+```text
+MUSON/
+├── MUSON_images/
+│   ├── 000001.jpg
+│   ├── 000002.jpg
+│   └── ...
+└── MUSON_Annotations.json
