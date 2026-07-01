@@ -1,4 +1,4 @@
-# MUSON: A Reasoning-oriented Multimodal Dataset for Socially Compliant Navigation
+# MUSON: A Multimodal Dataset for Socially Compliant Navigation in Urban Environments
 
 ## Overview
 
